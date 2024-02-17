@@ -413,3 +413,9 @@ function solution(number) {
   return sum;
 }
 */
+
+/* 
+git add . 
+git commit -m "nama perubahan/penambahan file"
+git push origin main/master
+*/
